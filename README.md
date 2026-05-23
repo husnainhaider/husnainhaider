@@ -9,46 +9,41 @@
 
 ## Tech Stack
 
-### Engines & Languages
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,ts,js&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,supabase,cloudflare&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=blender,git,githubactions,gitlab,docker&theme=dark" />
+</p>
 
-### AR / XR
-![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
-![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenXR](https://img.shields.io/badge/OpenXR-000000?style=flat-square&logo=khronosgroup&logoColor=white)
-![Vision Pro](https://img.shields.io/badge/Vision%20Pro-000000?style=flat-square&logo=apple&logoColor=white)
-![WebAR](https://img.shields.io/badge/WebAR-FF6F00?style=flat-square&logo=webgl&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="right"><b>🎮 Engines</b></td>
+    <td>Unity · C# · C++</td>
+  </tr>
+  <tr>
+    <td align="right"><b>👓 AR / XR</b></td>
+    <td>AR Foundation · ARKit · ARCore · OpenXR · Vision Pro · WebAR</td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎨 Rendering & Art</b></td>
+    <td>Shader Graph · URP · VFX · Blender · Substance Painter</td>
+  </tr>
+  <tr>
+    <td align="right"><b>🤖 AI & Web</b></td>
+    <td>Anthropic · Next.js · React · Tailwind · Node.js</td>
+  </tr>
+  <tr>
+    <td align="right"><b>📱 Platforms</b></td>
+    <td>Android · iOS · WebGL · Cloudflare · Supabase</td>
+  </tr>
+  <tr>
+    <td align="right"><b>🛠️ Workflow</b></td>
+    <td>Git · GitHub Actions · GitLab CI · Jira</td>
+  </tr>
+</table>
 
-### Rendering & Art
-![Shader Graph](https://img.shields.io/badge/Shader%20Graph-000000?style=flat-square&logo=unity&logoColor=white)
-![URP](https://img.shields.io/badge/URP-000000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Substance](https://img.shields.io/badge/Substance%20Painter-000000?style=flat-square&logo=adobe&logoColor=white)
-
-### AI & Web
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A373?style=flat-square&logo=anthropic&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Platforms & Infra
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ## Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=husnainhaider&theme=github-dark&hide_border=true)

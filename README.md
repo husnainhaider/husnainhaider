@@ -25,7 +25,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,ts,js,react,nextjs,tailwind,nodejs,cloudflare,blender,git,githubactions,fork&perline=17&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,ts,js,react,nextjs,tailwind,nodejs,cloudflare,blender,git,githubactions&perline=17&theme=dark" />
 </p>
 
 <table align="center">
@@ -43,9 +43,9 @@
   </tr>
   <tr>
     <td align="right"><b>📱 Platforms</b></td>
-    <td>Android · iOS · WebGL · Cloudflare · Supabase</td>
+    <td>Android · iOS · WebGL · Cloudflare </td>
     <td align="right"><b>🛠️ Workflow</b></td>
-    <td>Git · GH Actions · GitLab · Jira</td>
+    <td>Git · GH Actions · Jira</td>
   </tr>
 </table>
 

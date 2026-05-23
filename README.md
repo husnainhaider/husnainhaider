@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&pause=1000&color=B76DFF&center=true&vCenter=true&width=600&lines=Unity+%26+XR+Developer;Building+immersive+experiences;Exploring+AI+%2B+Game+Dev" alt="Typing SVG" />
+</p>
+
 ## About Me
 - 🎮 Unity & XR Developer @ [Zaubar](https://zaubar.com) — Berlin
 - 🎓 MSc Artificial Intelligence @ BTU Cottbus
@@ -10,39 +14,30 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,ts,js&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,supabase,cloudflare&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=blender,git,githubactions,gitlab,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,ts,js,react,nextjs,tailwind,nodejs,supabase,cloudflare,blender,git,githubactions,gitlab,docker&perline=17&theme=dark" />
 </p>
 
 <table align="center">
   <tr>
     <td align="right"><b>🎮 Engines</b></td>
     <td>Unity · C# · C++</td>
-  </tr>
-  <tr>
     <td align="right"><b>👓 AR / XR</b></td>
-    <td>AR Foundation · ARKit · ARCore · OpenXR · Vision Pro · WebAR</td>
+    <td>ARKit · ARCore · OpenXR · Vision Pro · WebAR</td>
   </tr>
   <tr>
-    <td align="right"><b>🎨 Rendering & Art</b></td>
-    <td>Shader Graph · URP · VFX · Blender · Substance Painter</td>
-  </tr>
-  <tr>
+    <td align="right"><b>🎨 Rendering</b></td>
+    <td>Shader Graph · URP · Blender · Substance</td>
     <td align="right"><b>🤖 AI & Web</b></td>
-    <td>Anthropic · Next.js · React · Tailwind · Node.js</td>
+    <td>Anthropic · Next.js · React · Tailwind</td>
   </tr>
   <tr>
     <td align="right"><b>📱 Platforms</b></td>
     <td>Android · iOS · WebGL · Cloudflare · Supabase</td>
-  </tr>
-  <tr>
     <td align="right"><b>🛠️ Workflow</b></td>
-    <td>Git · GitHub Actions · GitLab CI · Jira</td>
+    <td>Git · GH Actions · GitLab · Jira</td>
   </tr>
 </table>
+
 
 
 ## Stats

@@ -51,9 +51,13 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=husnainhaider&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=husnainhaider&theme=github-dark&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husnainhaider&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husnainhaider&theme=github_dark)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husnainhaider&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husnainhaider&theme=github_dark&utcOffset=2)
+
 
 
 ## Let's Connect

@@ -7,14 +7,6 @@
 - 🌐 Portfolio: [husnain.site](https://husnain.site)
 - 🎥 YouTube: [@Hucnain](https://www.youtube.com/@Hucnain/videos)
 
-## Selected Work
-- **Line of Control** — Multiplayer FPS, Photon networking, modular weapon VFX
-- **Akrasin MMORPG** — Quest/dialogue systems, shader-driven fog, Timeline workflows
-- **The Sands of Abzu** — Cel-shaded 3D adventure with stylized water
-- **AR Treasure Hunt** — GPS-anchored large-area AR exploration
-- **Ninja Tashani** — 3D RPG with sword trails and layered animation
-- **Dead Island Survival** — Procedural weather, ECS, runtime lighting tools
-
 ## Tech Stack
 
 ### Engines & Languages

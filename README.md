@@ -52,17 +52,10 @@
 
 
 ## Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=husnainhaider&theme=github-dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=husnainhaider&theme=github-dark&hide_border=true&v=2026-05-23)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husnainhaider&theme=github_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husnainhaider&theme=github_dark&v=2026-05-23)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husnainhaider&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husnainhaider&theme=github_dark&utcOffset=2)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husnainhaider&theme=github_dark&v=2026-05-23)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husnainhaider&theme=github_dark&utcOffset=2&v=2026-05-23)
 
-
-
-## Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://husnain.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/husnain-haider0)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Hucnain/videos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hucnen@gmail.com)

@@ -1,15 +1,26 @@
+<h1 align="center">Hey, I'm Husnain 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&pause=1000&color=B76DFF&center=true&vCenter=true&width=600&lines=Unity+%26+XR+Developer;Building+immersive+experiences;Exploring+AI+%2B+Game+Dev" alt="Typing SVG" />
+  <a href="https://husnain.site"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/husnain-haider0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Hucnain/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:hucnen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=husnainhaider&style=for-the-badge&color=B76DFF&label=Profile+views" alt="profile views"/>
 </p>
 
-## About Me
-- 🎮 Unity & XR Developer @ [Zaubar](https://zaubar.com) — Berlin
-- 🎓 MSc Artificial Intelligence @ BTU Cottbus
-- 🕹️ 6+ years, 90+ shipped projects across mobile, WebGL, AR/VR
-- 🌍 Building immersive experiences — multiplayer games, AR/WebAR, MMORPGs, real-time 3D
-- 🤖 Exploring the intersection of AI and game development
-- 🌐 Portfolio: [husnain.site](https://husnain.site)
-- 🎥 YouTube: [@Hucnain](https://www.youtube.com/@Hucnain/videos)
+---
+
+### About Me
+
+🎮 **Unity & XR Developer** at [Zaubar](https://zaubar.com) — crafting WebAR experiences from Berlin  
+🎓 Pursuing **MSc Artificial Intelligence** at Brandenburg University of Technology  
+🕹️ **6+ years** in the trenches — **90+ shipped projects** across mobile, WebGL, AR/VR  
+🌍 Building real-time worlds — **multiplayer games, AR/WebAR, MMORPGs**, large-scale 3D  
+🤖 Lately, exploring the intersection of **AI and game development**  
+
+> Real-time systems, immersive experiences, and the games that make them feel alive.
+
+---
 
 ## Tech Stack
 

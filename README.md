@@ -25,7 +25,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,ts,js,react,nextjs,tailwind,nodejs,supabase,cloudflare,blender,git,githubactions,gitlab,docker&perline=17&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,ts,js,react,nextjs,tailwind,nodejs,cloudflare,blender,git,githubactions,fork&perline=17&theme=dark" />
 </p>
 
 <table align="center">

@@ -5,7 +5,6 @@
   <a href="https://linkedin.com/in/husnain-haider0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Hucnain/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:hucnen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=husnainhaider&style=for-the-badge&color=B76DFF&label=Profile+views" alt="profile views"/>
 </p>
 
 ---
